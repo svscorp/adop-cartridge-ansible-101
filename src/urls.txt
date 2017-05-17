@@ -1,0 +1,1 @@
+https://github.com/svscorp/adop-cartridge-ansible-101.git
